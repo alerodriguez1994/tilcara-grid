@@ -1,0 +1,41 @@
+/********************************** SECCION BOOTSTRAP******************************/
+
+.background{
+    background-image: url("/MULTIMEDIA/tilcaratextura2.jpg") ;
+    
+}
+/* INDEX */
+
+*
+{ 
+    padding:10px;
+    margin:0;
+}
+.header h1{
+    padding-top: 0.5rem;
+}
+
+img{
+    padding-left: 4%;
+
+}
+
+p{
+    padding: 40px;
+    text-align: justify;
+}
+
+footer div img{
+    width: 40px;
+    height: 40px;   
+}
+footer div {
+    position: fixed; 
+    bottom: 3px;
+    right: 10px;
+    
+}
+section img{
+    width: 30%;
+    height: 30%;
+}
